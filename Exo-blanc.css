@@ -1,0 +1,64 @@
+body{
+    width: 37%;
+    margin-left: 35%;
+    background-color: rgb(233, 235, 156);
+    border: black 1px solid;
+}
+
+.img{
+    margin-top: 10px;
+    margin-right: 7px;
+    float: right;
+}
+
+.container1{
+    background-color: rgb(255, 255, 255);
+    top: 0%;
+}
+
+.container2{
+    padding-top: 20px;
+    background-color: white;
+    height: 950px;
+}
+
+nav{
+    background-color: rgb(181, 253, 99);
+    border: white 1px solid;
+    width: 90.5%;
+    height: 20%;
+    margin-top: -4px;
+    height: 20px; 
+    padding: 0em 2em;
+
+}
+nav a {
+    float: left;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 0em 2.3em;
+}
+
+section{
+    float: right;
+    width: 90%;
+} 
+
+h1, h2{
+    font-size: 18px;
+    color: rgb(132, 189, 68);
+    width: 80%;
+}
+
+hr{
+    width: 95%;
+    color: rgb(181, 253, 99);
+    margin-top: -18px;
+    float: left;
+}
+
+p{
+    color: rgb(132, 189, 68);
+    margin-left: 77%;
+}
+
